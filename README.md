@@ -1,2 +1,3 @@
 # react-with_chart
-Created with CodeSandbox
+utizando o __fusioncharts__ para
+gera *graficos* no react.
